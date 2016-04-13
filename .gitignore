@@ -1,0 +1,9 @@
+out/
+build/
+.DS_Store
+target/
+settings.xml
+/.classpath
+/.project
+/.settings/
+dist/
